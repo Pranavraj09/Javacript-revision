@@ -4,12 +4,12 @@
 
 // js can be avoid space
 
-console.log(3+7 )
+console.log(3+7-10)
 //code readability  should be high
 
-console.log('Hitesh')
+console.log('Pranav raj')
 
-let name="hitesh"
+let name="Pranav"
 let age=18
 let isLoggedIn= false
 
@@ -24,7 +24,7 @@ let isLoggedIn= false
 
 //object
 
-console.log(typeof"hitesh");
+console.log(typeof"Pranav");
 console.log(typeof undefined);//undefined
 console.log(typeof null);//object
 
