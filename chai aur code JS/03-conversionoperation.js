@@ -1,3 +1,11 @@
+let value =undefined;
+console.log(value);
+let islogedin = String(value)
+console.log(typeof islogedin);
+
+
+
+
 // let score = null
 
 // console.log(typeof score);
